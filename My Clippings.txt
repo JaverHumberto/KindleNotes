@@ -238,3 +238,23 @@ Pinciples of Reinforced Concrete Design Sozen-Ichinose-Pujol
 
 structural design (choice of size, strength, and framing type) is based on the following: 1. Sense of proportion 2. Understanding of the conditions of static equilibrium and plane geometry 3. Accumulated knowledge on the composite action of concrete and reinforcement derived from mechanics, experiment, and experience
 ==========
+Cumulative Deformation Capacity of BRBs Taking Buckling of Core Plates into Account  
+- La subrayado en la página 1-1 | Añadido el domingo, 13 de agosto de 2023 15:23:47
+
+Since BRBs are generally designed to avoid fracture during seismic events, determining cumulative capacity for energy dissipation proves crucial in evaluating performance and in assessing any needed replacement
+==========
+Cumulative Deformation Capacity of BRBs Taking Buckling of Core Plates into Account  
+- La nota en la página 4 | Añadido el domingo, 13 de agosto de 2023 16:10:30
+
+Model for hysteresis curve of BRBs
+==========
+Cumulative Deformation Capacity of BRBs Taking Buckling of Core Plates into Account  
+- La subrayado en la página 4-4 | Añadido el domingo, 13 de agosto de 2023 16:10:30
+
+Menegotto–Pinto model, as proposed by Yamazaki and Kasai, et al. , (2006)
+==========
+Cumulative Deformation Capacity of BRBs Taking Buckling of Core Plates into Account  
+- La subrayado en la página 4-4 | Añadido el domingo, 13 de agosto de 2023 16:15:06
+
+ease, the tangent modulus is approximated by the normalized deformation function as Eq.(3.4), illustrated
+==========
